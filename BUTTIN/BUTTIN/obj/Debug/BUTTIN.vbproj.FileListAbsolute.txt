@@ -1,0 +1,11 @@
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\bin\Debug\BUTTIN.exe.config
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\bin\Debug\BUTTIN.exe
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\bin\Debug\BUTTIN.pdb
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\bin\Debug\BUTTIN.xml
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.vbprojAssemblyReference.cache
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.Form1.resources
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.Resources.resources
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.vbproj.GenerateResource.cache
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.exe
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.xml
+C:\Users\kjlop643\source\repos\BUTTIN\BUTTIN\obj\Debug\BUTTIN.pdb
