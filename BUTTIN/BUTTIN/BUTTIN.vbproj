@@ -119,5 +119,23 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2021-Nissan-Maxima-2021-Nissan-Maxima-SR-Overview-Left.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2022_toyota_corolla_angularfront.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6367d51d-b6f8-4ea6-b444-6af6ee7ba03c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fucis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2022_toyota_corolla_angularfront1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2022_toyota_corolla_angularfront2.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

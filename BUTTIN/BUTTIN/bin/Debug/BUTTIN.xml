@@ -22,5 +22,35 @@ BUTTIN
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:BUTTIN.My.Resources.Resources._2021_Nissan_Maxima_2021_Nissan_Maxima_SR_Overview_Left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BUTTIN.My.Resources.Resources._2022_toyota_corolla_angularfront">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BUTTIN.My.Resources.Resources._2022_toyota_corolla_angularfront1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BUTTIN.My.Resources.Resources._2022_toyota_corolla_angularfront2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BUTTIN.My.Resources.Resources._6367d51d_b6f8_4ea6_b444_6af6ee7ba03c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BUTTIN.My.Resources.Resources.fucis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
